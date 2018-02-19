@@ -5,6 +5,6 @@ It was difficult to reproduce the problem because we depended on WebSphere to do
    
 I leave here the implementation sd used, if it will be useful to someone, someday.
 
-# Add the IBM Corba libs as presented:
+## Add the IBM Corba libs as presented:
 ![Add external libs from IBM JVM](img/libs.png)
  
